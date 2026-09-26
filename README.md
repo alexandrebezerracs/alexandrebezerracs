@@ -1,3 +1,4 @@
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=alexandrebezerracs&show_icons=true&theme=dracula&include_all_commits=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandrebezerracs&layout=compact&theme=dracula)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexandrebezerracs&theme=dracula" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alexandrebezerracs&theme=dracula" />
+</p>
